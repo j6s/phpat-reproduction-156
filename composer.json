@@ -1,0 +1,13 @@
+{
+    "name": "thej6s/vendor-directory-in-phpat",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Thej6s\\VendorDirectoryInPhpat\\": "./"
+        }
+    },
+    "require": {
+        "symfony/symfony": "^5.3",
+        "carlosas/phpat": "^0.7.5"
+    }
+}

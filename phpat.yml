@@ -1,0 +1,6 @@
+src:
+  path: ./
+  exclude:
+    - vendor/*
+tests:
+  path: tests/architecture/
